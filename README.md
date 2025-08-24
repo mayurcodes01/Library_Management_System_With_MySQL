@@ -64,6 +64,8 @@ The Library Management System is a Python application that utilizes MySQL for ma
 - `borrow_date`: DATE
 
 ## Usage
+Before running code change the Username,Password,Port No.,Database and Hostname according to your MySQL Credentials.
+
 1. Run the application:
    ```bash
    python LibraryManagementSystem_MySQL.py

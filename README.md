@@ -31,8 +31,8 @@ The Library Management System is a Python application that utilizes MySQL for ma
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd LibraryManagementSystem
+    git clone https://github.com/mayurcodes01/Library_Management_System_With_MySQL.git
+
    ```
 
 2. **Install the required library:**

@@ -1,6 +1,6 @@
 # Library Management System
 
-This Project made under Python course of TKA
+This Project is made under Python course of TKA
 
 ## Overview
 The Library Management System is a Python application that utilizes MySQL for managing books, members, and borrowed books in a library. This system allows users to perform various operations such as adding, removing, searching, and updating books and members, as well as borrowing and returning books.
